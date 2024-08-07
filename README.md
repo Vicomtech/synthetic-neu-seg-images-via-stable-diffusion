@@ -1,10 +1,10 @@
 # Synthetic NEU-Seg Images via Stable Diffusion
 
-This dataset accompanies the paper "State-of-the-art Diffusion Models to Improve the Robustness of Visual Defect Segmentation by Semantic Networks in Manufacturing Components".
+This dataset accompanies the paper "Latent Diffusion Models to Enhance the Performance of Visual Defect Segmentation Networks in Steel Surface Inspection".
 
 The dataset will be made available upon the paper's acceptance and request for the data, filling the form at:
 
-(to be updated when approved)
+https://opendatasets.vicomtech.org/di11-synthetic-neu-seg-images-via-stable-diffusion/33e9a1ec
 
 # Usage
 
