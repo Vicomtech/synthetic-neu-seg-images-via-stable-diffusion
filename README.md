@@ -32,7 +32,19 @@ All datasets on this page are copyrigh by Vicomtech and published under the Crea
 
 **Please cite ourwork as follows:**
 ```
-@article{
-    To be updated when published
+
+@Article{s24186016,
+AUTHOR = {Leiñena, Jon and Saiz, Fátima A. and Barandiaran, Iñigo},
+TITLE = {Latent Diffusion Models to Enhance the Performance of Visual Defect Segmentation Networks in Steel Surface Inspection},
+JOURNAL = {Sensors},
+VOLUME = {24},
+YEAR = {2024},
+NUMBER = {18},
+ARTICLE-NUMBER = {6016},
+URL = {https://www.mdpi.com/1424-8220/24/18/6016},
+ISSN = {1424-8220},
+ABSTRACT = {This paper explores the use of state-of-the-art latent diffusion models, specifically stable diffusion, to generate synthetic images for improving the robustness of visual defect segmentation in manufacturing components. Given the scarcity and imbalance of real-world defect data, synthetic data generation offers a promising solution for training deep learning models. We fine-tuned stable diffusion using the LoRA technique on the NEU-seg dataset and evaluated the impact of different ratios of synthetic to real images on the training set of DeepLabV3+ and FPN segmentation models. Our results demonstrated a significant improvement in mean Intersection over Union (mIoU) when the training dataset was augmented with synthetic images. This study highlights the potential of diffusion models for enhancing the quality and diversity of training data in industrial defect detection, leading to more accurate and reliable segmentation results. The proposed approach achieved improvements of 5.95% and 6.85% in mIoU of defect segmentation on each model over the original dataset.},
+DOI = {10.3390/s24186016}
 }
+
 ```
